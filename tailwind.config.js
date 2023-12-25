@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         primary: "#DE3163",
         "wd-white": "#FFFFFF",
+        "wd-brand": "#898989",
         "wd-grey": "#999999",
         "wd-darkgrey": "#2D2D2D",
         "wd-black": "#080808",
